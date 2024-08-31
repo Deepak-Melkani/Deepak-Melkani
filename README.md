@@ -1,3 +1,4 @@
+![logo](https://github.com/Deepak-Melkani/Deepak-Melkani/blob/main/gitGif.gif)
 <h1 align="center">Hi 👋, I'm Deepak Melkani</h1>
 <h3 align="center">A passionate developer from India</h3>
 
