@@ -7,14 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-melkani&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-melkani" /> </p>
 
 - 🔭 I’m currently working on **Competitive Programming**
-
--🌱 Growing my expertise in **Machine Learning** & **Web Development**  
-
--🔍 Open to roles and opportunities in both domains  
-
+- 🌱 Growing my expertise in **Machine Learning** & **Web Development**
+- 🔍 Open to roles and opportunities in both domains
 - 💬 Ask me about **DSA, CP**
-
 - 📫 How to reach me **deepakmelkani80@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
