@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on **Competitive Programming**
 
-- 🌱 I’m currently learning **Machine Learning**
+-🔍 Actively seeking roles in **Machine Learning** and **Web Development**  
+
+-🌱 Currently sharpening my skills in both domains  
 
 - 💬 Ask me about **DSA, CP**
 
